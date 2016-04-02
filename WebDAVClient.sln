@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDAVClientPortable", "WebDAVClientPortable\WebDAVClientPortable.csproj", "{612AC6C3-DCF7-42A6-A740-7C0B579ABB3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDAV.Test", "WebDAV.Test\WebDAV.Test.csproj", "{42614BE1-660B-471A-A5E1-8730D3AF4021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{612AC6C3-DCF7-42A6-A740-7C0B579ABB3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{612AC6C3-DCF7-42A6-A740-7C0B579ABB3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{612AC6C3-DCF7-42A6-A740-7C0B579ABB3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{612AC6C3-DCF7-42A6-A740-7C0B579ABB3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42614BE1-660B-471A-A5E1-8730D3AF4021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42614BE1-660B-471A-A5E1-8730D3AF4021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42614BE1-660B-471A-A5E1-8730D3AF4021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42614BE1-660B-471A-A5E1-8730D3AF4021}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
